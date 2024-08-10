@@ -1,4 +1,4 @@
-# MEV Bot Scams collected from YouTube
+# MEV Bot Scams Collected from YouTube
 This repository contains the code and data related to the Maximal Extractable Value (MEV) bot scam. We reported this scam in our paper "Towards Understanding and Characterizing the Arbitrage Bot Scam In the Wild" accepted by ACM SIGMETRICS 2024.
 
 1. How to collect YouTube videos by keywords. 
