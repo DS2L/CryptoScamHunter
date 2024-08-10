@@ -1,5 +1,5 @@
-# CryptoScamHunter
-This repository contains the code and data related to the Arbitrage bot scam. We reported this scam in our paper "Towards Understanding and Characterizing the Arbitrage Bot Scam In the Wild" accepted by ACM SIGMETRICS 2024.
+# MEV Bot Scams collected from YouTube
+This repository contains the code and data related to the Maximal Extractable Value (MEV) bot scam. We reported this scam in our paper "Towards Understanding and Characterizing the Arbitrage Bot Scam In the Wild" accepted by ACM SIGMETRICS 2024.
 
 1. How to collect YouTube videos by keywords. 
 `python3 search_videos.py`
